@@ -1,0 +1,87 @@
+.container {
+  margin: 0 auto;
+  width: 768px;
+  border-style: ridge;
+}
+
+header {
+  background-color: black;
+}
+
+#logo {
+  display: block;
+  margin: 0 auto;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 100px;
+    background-color: #878787;
+}
+
+li a {
+    display: block;
+    color: white;
+    padding: 8px 16px;
+    text-decoration: none;
+
+}
+
+h2 {
+  color: black;
+  margin-top: 20px;
+  margin-left: 160px;
+  text-align: left;
+  font-family: "Arial", Arial, sans;
+  font-weight: bold;
+
+}
+
+h3 {
+  color: black;
+  margin-left: 160px;
+  text-align: left;
+  font-family: "Arial", Arial, sans;
+  font-weight: bold;
+
+}
+
+body {
+  color: black;
+  text-align: left;
+  font-family: "Arial", Arial, sans;
+
+}
+
+p {
+  color: black;
+  margin-left: 160px;
+  text-align: left;
+  font-family: "Arial", Arial, sans;
+  
+}
+
+.footer {
+  width: 768px;
+  color: black;
+  text-align: left;
+  margin-left: 160px;
+  font-family: "Arial", Arial, sans;
+  font-weight: bold;
+}
+
+nav {
+  width: 150px;
+  float: left;
+  margin: 0;
+  padding: 0;
+  margin-right: 10px;
+
+}
+
+/*No se como hacer que el derehos que fuera de la linea y no se como hacer que la parte gris ocupa todo el espacio
+*/
+
+
